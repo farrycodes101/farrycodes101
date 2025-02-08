@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farrycodes101&label=Profile%20views&color=0e75b6&style=flat" alt="farrycodes101" /> </p>
 
-- 🔭 I’m currently working on **Blog Website**
+- 🔭 I’m currently working on **Medical Website**
 
 - 🌱 I’m currently learning **Next.js**
 
